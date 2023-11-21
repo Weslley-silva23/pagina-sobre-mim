@@ -146,3 +146,193 @@ h3 {
     left: 530px;
 
 }
+
+@media screen and (max-width:768px) {
+
+    h1 {
+        color: #FFF;
+        text-align: center;
+        font-size: 35px;
+        font-weight: 700;
+        margin-right: 55px;
+
+    }
+
+    section {
+
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: space-between;
+        align-items: baseline;
+
+    }
+
+    h3 {
+
+        color: #FFF;
+        text-align: center;
+        font-size: 28px;
+        font-weight: 700;
+        width: max-content;
+        position: relative;
+        bottom: 95px;
+        left: 92px;
+    }
+
+
+    ul {
+        position: relative;
+        left: 9vh;
+        bottom: 8vh;
+
+    }
+
+
+    .formação {
+
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: baseline;
+        position: relative;
+        top: 50vh;
+        left: -2px;
+
+    }
+
+    .h2-formação {
+        color: #8A2BE2;
+        text-align: center;
+        font-size: 32px;
+        font-weight: 700;
+        width: 151px;
+        position: relative;
+        left: 25px;
+        bottom: 90px;
+
+
+    }
+
+    .paragrafo-formação {
+
+
+        width: 556px;
+        color: #FFF;
+        text-align: center;
+        font-size: 23px;
+        font-weight: 600;
+        position: relative;
+        right: 14vh;
+        bottom: 8vh;
+
+
+
+    }
+
+    .paragrafo-formãcao2 {
+
+        width: 414px;
+        color: #FFF;
+        text-align: center;
+        font-size: 22px;
+        font-weight: 600;
+        position: relative;
+        right: 8vh;
+        bottom: 7vh;
+
+    }
+
+    .paragrafo-formação-3 {
+
+        width: 336px;
+        color: #FFF;
+        text-align: center;
+        font-size: 22px;
+        font-weight: 600;
+        position: relative;
+        right: 5vh;
+        bottom: 5vh;
+
+
+    }
+
+    .experiencia {
+
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        position: relative;
+        top: 86vh;
+        right: 18vh;
+
+    }
+
+    .experiencia-h2 {
+
+        color: #8A2BE2;
+    }
+
+    .paragrafo {
+        color: #FFF;
+        text-align: center;
+        font-size: 24px;
+        font-weight: 600;
+        width: 524px;
+        margin-left: 40px;
+
+    }
+
+    .paragrafo-free {
+
+        width: 510px;
+        color: #FFF;
+        text-align: center;
+        font-size: 22px;
+        font-weight: 600;
+        position: relative;
+        right: 1vh;
+
+    }
+    
+
+    .footer {
+
+        color: #8A2BE2;
+        font-size: 35px;
+        font-weight: 700;
+        position: relative;
+        top: -69vh;
+        left: -6vh;
+    }
+
+    .footer-image {
+
+        position: relative;
+        width: 500px;
+        top: -65vh;
+        left: 5px;
+    }
+
+    .cv {
+        position: relative;
+        top: 170vh;
+        left: -5vh;
+    
+    
+    }
+
+    .rodapé{
+        position: relative;
+        top: 177vh;
+    
+
+
+    }
+
+
+
+
+
+
+}
