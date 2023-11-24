@@ -154,7 +154,7 @@ h3 {
         text-align: center;
         font-size: 35px;
         font-weight: 700;
-        margin-right: 55px;
+        margin-left: 7vh;
 
     }
 
@@ -176,15 +176,15 @@ h3 {
         font-weight: 700;
         width: max-content;
         position: relative;
-        bottom: 95px;
-        left: 92px;
+        bottom: 104px;
+        left: 72px;
     }
 
 
     ul {
         position: relative;
         left: 9vh;
-        bottom: 8vh;
+        bottom: 12vh;
 
     }
 
@@ -208,8 +208,8 @@ h3 {
         font-weight: 700;
         width: 151px;
         position: relative;
-        left: 25px;
-        bottom: 90px;
+        left: 45px;
+        bottom: 70px;
 
 
     }
@@ -217,14 +217,14 @@ h3 {
     .paragrafo-formação {
 
 
-        width: 556px;
+        width: 514px;
         color: #FFF;
         text-align: center;
         font-size: 23px;
         font-weight: 600;
         position: relative;
         right: 14vh;
-        bottom: 8vh;
+        bottom: 7vh;
 
 
 
@@ -271,6 +271,9 @@ h3 {
     .experiencia-h2 {
 
         color: #8A2BE2;
+        margin-left: 13vh;
+        margin-top: 10vh;
+    
     }
 
     .paragrafo {
@@ -278,9 +281,10 @@ h3 {
         text-align: center;
         font-size: 24px;
         font-weight: 600;
-        width: 524px;
-        margin-left: 40px;
-
+        width: 377px;
+        margin-left: 153px;
+    
+        
     }
 
     .paragrafo-free {
@@ -291,7 +295,7 @@ h3 {
         font-size: 22px;
         font-weight: 600;
         position: relative;
-        right: 1vh;
+        left: 6vh;
 
     }
     
@@ -301,26 +305,20 @@ h3 {
         color: #8A2BE2;
         font-size: 35px;
         font-weight: 700;
-        position: relative;
-        top: -69vh;
-        left: -6vh;
+        position: absolute;
+        top: -10vh;
+        left: 4vh;
     }
 
     .footer-image {
 
         position: relative;
-        width: 500px;
-        top: -65vh;
-        left: 5px;
+        width: 460px;
+        top: -41vh;
+        left: -24px;
     }
 
-    .cv {
-        position: relative;
-        top: 170vh;
-        left: -5vh;
     
-    
-    }
 
     .rodapé{
         position: relative;
@@ -328,6 +326,14 @@ h3 {
     
 
 
+    }
+
+    .cv {
+        position: absolute;
+        top: 207vh;
+        left: 9vw;
+    
+    
     }
 
 
