@@ -196,7 +196,7 @@ h3 {
         justify-content: space-between;
         align-items: baseline;
         position: relative;
-        top: 50vh;
+        top: 56vh;
         left: -2px;
 
     }
@@ -263,7 +263,7 @@ h3 {
         flex-direction: column;
         align-items: center;
         position: relative;
-        top: 86vh;
+        top: 93vh;
         right: 18vh;
 
     }
@@ -306,7 +306,7 @@ h3 {
         font-size: 35px;
         font-weight: 700;
         position: absolute;
-        top: -10vh;
+        top: -5vh;
         left: 4vh;
     }
 
@@ -330,7 +330,7 @@ h3 {
 
     .cv {
         position: absolute;
-        top: 207vh;
+        top: 215vh;
         left: 9vw;
     
     
